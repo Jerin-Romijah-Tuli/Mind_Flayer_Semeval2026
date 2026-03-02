@@ -39,7 +39,7 @@
 
 ## 🎯 Overview
 
-**Mind_Flayer** is a zero-shot multi-turn Retrieval-Augmented Generation (RAG) system designed for SemEval-2026 Task 8B. We demonstrate that careful prompt engineering and smart system design can achieve **competitive results without training or expensive compute**.
+**DualRAG** is a zero-shot multi-turn Retrieval-Augmented Generation (RAG) system designed for SemEval-2026 Task 8B. We demonstrate that careful prompt engineering and smart system design can achieve **competitive results without training or expensive compute**.
 
 ### 🌟 What Makes This Special?
 
@@ -155,7 +155,7 @@ def post_process(response, has_contexts):
 
 | System | Overall F1 | ROUGE-L | LLM Judge | Rank |
 |--------|------------|---------|-----------|------|
-| **Mind_Flayer (Ours)** | **0.7492** | **0.8782** | **0.8297** | **8/26** |
+| **DUALRAG(ours)** | **0.7492** | **0.8782** | **0.8297** | **8/26** |
 | Top System | 0.7827 | -- | -- | 1/26 |
 | GPT-OSS-120B | 0.639 | -- | -- | baseline |
 | GPT-4o | 0.60 | -- | -- | baseline |
@@ -587,11 +587,13 @@ If you use this code or find our work helpful, please cite:
 
 ```bibtex
 @inproceedings{tuli2026mindflayer,
-  title={Mind\_Flayer at SemEval-2026 Task 8: Faithful Multi-Turn RAG Generation via Llama-4-Scout and Smart API Key Rotation},
-  author={Tuli, Jerin Romijah and Pritom, MD. Sartaj Alam and Naem, Talukder Naemul Hasan},
-  booktitle={Proceedings of the 20th International Workshop on Semantic Evaluation (SemEval-2026)},
-  year={2026},
-  organization={Association for Computational Linguistics}
+  title={Mind\_Flayer at SemEval-2026 Task 8:DUALRAG:Answerability-Aware Generation for Multi-Turn RAG Conversations},
+  author    = {Jerin Romijah Tuli , MD. Sartaj Alam Pritom ,Talukder Naemul Hasan Naem},
+  booktitle = {Proceedings of the 20th International Workshop on Semantic Evaluation (SemEval-2026)},
+   month = jun,
+   year = "2026",
+   address = "San Diego, USA",
+   publisher = "Association for Computational Linguistics",
 }
 ```
 
