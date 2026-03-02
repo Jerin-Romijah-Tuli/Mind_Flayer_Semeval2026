@@ -606,25 +606,37 @@ If you use this code or find our work helpful, please cite:
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/JerinTuli.png" width="100px;" alt="Jerin"/><br />
-      <sub><b>Jerin Romijah Tuli</b></sub><br />
-      <a href="mailto:ramijahtuli786@gmail.com">📧 Email</a>
+      <a href="https://github.com/Jerin-Romijah-Tuli">
+        <img src="https://github.com/Jerin-Romijah-Tuli.png" width="100px;" alt="Jerin Romijah Tuli"/><br />
+        <b>Jerin Romijah Tuli</b>
+      </a><br />
+      🏛️ CSE<br />
+      📧 ramijahtuli786@gmail.com<br />
+      <a href="https://github.com/Jerin-Romijah-Tuli">@Jerin-Romijah-Tuli</a>
     </td>
     <td align="center">
-      <img src="https://via.placeholder.com/100" width="100px;" alt="Sartaj"/><br />
-      <sub><b>MD. Sartaj Alam Pritom</b></sub><br />
-      <a href="mailto:sartajalam0010@gmail.com">📧 Email</a>
+      <a href="https://github.com/Sartaj-Alam-Pritom">
+        <img src="https://github.com/Sartaj-Alam-Pritom.png" width="100px;" alt="MD. Sartaj Alam Pritom"/><br />
+        <b>MD. Sartaj Alam Pritom</b>
+      </a><br />
+      🏛️ CSE<br />
+      📧 sartajalam0010@gmail.com<br />
+      <a href="https://github.com/Sartaj-Alam-Pritom">@Sartaj-Alam-Pritom</a>
     </td>
     <td align="center">
-      <img src="https://via.placeholder.com/100" width="100px;" alt="Naem"/><br />
-      <sub><b>Talukder Naemul Hasan Naem</b></sub><br />
-      <a href="mailto:naemruet@gmail.com">📧 Email</a>
+      <a href="https://github.com/tnhnaem">
+        <img src="https://github.com/tnhnaem.png" width="100px;" alt="Talukder Naemul Hasan Naem"/><br />
+        <b>Talukder Naemul Hasan Naem</b>
+      </a><br />
+      🏛️ EEE<br />
+      📧 naemruet@gmail.com<br />
+      <a href="https://github.com/tnhnaem">@tnhnaem</a>
     </td>
   </tr>
 </table>
 
-**Institution:** Department of Computer Science and Engineering  
-**University:** Rajshahi University of Engineering & Technology, Bangladesh
+**Institution**: Rajshahi University of Engineering & Technology, Bangladesh  
+**Conducted as**: Undergraduate Research (no external funding)
 
 ---
 
